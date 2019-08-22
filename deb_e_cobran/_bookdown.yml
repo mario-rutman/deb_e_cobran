@@ -1,0 +1,5 @@
+book_filename: "deb_e_cobran"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
